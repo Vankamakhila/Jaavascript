@@ -1,0 +1,15 @@
+let a=20
+let b=30.5
+let c="40"
+let d="Akhila"
+let e="janaki"
+let f=true
+let g=false
+let h;
+console.log(a+b)  //50.5
+console.log(a+c)  //'2040'
+console.log(a+d)  //20Akhila
+console.log(a+e)  //20Janaki
+console.log(a+f)  //11
+console.log(a+g)  //10
+console.log(a+h)  //NaN
